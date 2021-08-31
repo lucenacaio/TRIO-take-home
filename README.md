@@ -1,5 +1,7 @@
 # TRIO-take-home
 
+This solution was developed to synchronize email contacts between MailChimp and Sendgrid, using their APIs to do that. The stack used was Java 11 with Spring Boot and Feign to make requests in the APIs.
+
 ## 💻 Requirements
 
 This project was developed using:
