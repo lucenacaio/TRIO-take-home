@@ -1,0 +1,8 @@
+mailchimp:
+ api-key : 92f72c84333808236eb2324d216d4091-us5
+ host : https://us5.api.mailchimp.com/
+ list-id: 16dfebb33e
+
+sendgrid:
+ api-key : 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
+ host : https://api.sendgrid.com/v3
